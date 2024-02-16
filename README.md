@@ -12,4 +12,4 @@ A static clone of the Amazon website using only Html and CSS.
 
 #Creadits
 -Design from Amazon's website
-Clone is designed using html and css. 
+
